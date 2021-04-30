@@ -1,6 +1,6 @@
-# Video: Collaborating Object Review
+# Video: Collaborating Objects Review
 
-## Objectives:
+## Learning Goals
 
 * Test Driven Development
 * Focusing on Object Interfaces
